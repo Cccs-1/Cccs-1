@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 _welcome to my perfil 🌴_
 
-<!--
-**Cccs-1/Cccs-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Caue
 
-Here are some ideas to get you started:
+- Im currently learning with [Alura](https://www.aluira.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- im developing in the JavaScript language
+
+- I use this place for my organization and sharing of my developed projects
+
+  ### Lets keep in touch! 📫
+
+   cscs37065@gmail.com
+
+![](https://media1.tenor.com/m/8Nfv_d5eEf0AAAAd/rocky-success.gif)
+  
